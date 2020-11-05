@@ -1,0 +1,24 @@
+.review .pagetitle{
+  color:rgba(0,0,0,0.8);
+  margin-top:30px;
+}
+.review-main {
+    width: 60%;
+}
+.review-main h2{
+    font-size:20px;
+}
+.review-main p{
+    font-size:18px;
+}
+.review-image {
+    width: 40%;
+    margin-right:5%;
+}
+.review-image img {
+    max-width: 100%;
+}
+.btn-back {
+    width: 10em;
+    margin: auto;
+}

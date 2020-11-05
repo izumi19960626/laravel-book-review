@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #222831;
+    color: #fff;
+}
+.navbar-logo {
+    height: 60px;
+    margin-right: 15px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+.main {
+    min-height: 85vh;
+    padding: 30px 5%;
+}
+.pagetitle {
+    color: #fff;
+    margin-bottom: 20px;
+}
+.footer {
+    background-color: #222831;
+    text-align: center;
+}
+.copyright {
+    color: #fff;
+}
+.main .flash_message{
+    width:50%;
+    margin:0 auto;
+    color:#fff !important;
+    background:rgba(0,0,0,0.8) !important;
+}
